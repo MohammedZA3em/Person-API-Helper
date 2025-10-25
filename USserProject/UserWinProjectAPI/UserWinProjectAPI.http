@@ -1,0 +1,6 @@
+@UserWinProjectAPI_HostAddress = http://localhost:5292
+
+GET {{UserWinProjectAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
